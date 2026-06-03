@@ -3,7 +3,7 @@
 Security Control System made for observation/handling of Security Equipment like camras,login devices etc..
 
 Features Implemented:
-Room Selection - Fetches all rooms from your existing igpess_network table with floor filtering
+Room Selection - Fetches all rooms from your existing network table with floor filtering
 Camera Integration - Opens mobile camera for photos/videos
 Geo-Tagging - Automatically captures location coordinates and address
 Image Compression - Compresses images to max 1200px with 75% quality, reducing storage space
