@@ -1,4 +1,8 @@
 <img width="1325" height="800" alt="image" src="https://github.com/user-attachments/assets/e99770ce-add3-4771-867a-bc1898232b8a" /># Security-Control-System
+<img width="1306" height="671" alt="image" src="https://github.com/user-attachments/assets/d63b2654-61d3-4586-bd04-d0ad9df80da3" />
+<img width="1346" height="602" alt="image" src="https://github.com/user-attachments/assets/b3abcc6d-b409-47dc-bdf7-271cf7a7c596" />
+
+
 ** create/use rajneesh2350/ folder put all files init for proper files navigation or change according to your need. 
 /rajneesh2350/index7.php (Run This) **
 
