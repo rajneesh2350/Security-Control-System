@@ -1,4 +1,5 @@
 # Security-Control-System
+** create/use rajneesh2350/ folder put all files init for proper files navigation or change according to your need. **
 Security Control System made for observation/handling of Security Equipment like camras,login devices etc..
 
 Features Implemented:
