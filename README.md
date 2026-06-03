@@ -1,4 +1,4 @@
-# Security-Control-System
+<img width="1325" height="800" alt="image" src="https://github.com/user-attachments/assets/e99770ce-add3-4771-867a-bc1898232b8a" /># Security-Control-System
 ** create/use rajneesh2350/ folder put all files init for proper files navigation or change according to your need. 
 /rajneesh2350/index7.php (Run This) **
 
